@@ -22,7 +22,9 @@ dataset contained a sample of over 3 million grocery orders from more than 200,0
   
 ## Contact
 Name : Christian Rios-Chambi 
+
 Email : crioschambi@gmail.com
+
 Linkedin : www.linkedin.com/in/crioshambi
 
 
