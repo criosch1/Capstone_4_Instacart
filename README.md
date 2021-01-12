@@ -30,12 +30,16 @@ For each user, we provide between 4 and 100 of their orders, with the sequence o
 - Remove duplicates or records with missing or mismatched values.
 - Removing unnecessary columns. 
 - Replacing certain null values with appropriate zero values.
-
-## Data Wrangling:
-
 - Created new columns for better analysis.
-- Creating functions to help label data.
-- Creating Visualizations.
+- Creating functions to help label features.
+
+## Exploratory Data Analysis (EDA):
+
+- Creating visualizations
+- Variable identification
+- Outlier treatment
+- Univariate analysis
+- Bi-variate analysis
 
 ## What are the most popular times for ordering on Instacart?:
 - Popular ordering times for orders were between 9 am - 4 pm. The most popular time was 10 am.
